@@ -40,6 +40,7 @@ body {
     position: relative;
     background: rgb(156, 156, 156);
     transition: 150ms ease-in-out;
+    cursor: pointer;
 }
 
 .toggle-button::after {
