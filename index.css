@@ -21,6 +21,7 @@ body {
     place-items: center;
     background: var(--clr-background);
     color: var(--clr-text);
+    transition: 150ms ease-in-out;
 }
 
 .container {
